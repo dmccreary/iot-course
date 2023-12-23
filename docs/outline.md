@@ -53,18 +53,22 @@ We will also provide examples of GPT-4 prompts that can be used to create, exten
 - Connecting Raspberry Pi Pico "W" to a network via WiFI
 - Sending and receiving data over the network
 - Basics of network security in IoT
+- Hands-on project: Web server
 
 ### Week 5: Edge Computing Concepts
 - Understanding edge computing in the context of IoT
 - Benefits and challenges of edge computing
 - Implementing basic edge computing tasks with Raspberry Pi Pico "W"
 - Case studies of edge computing in IoT
+- TinyML
+- Hands-on project: Distance data logger
 
 ### Week 6: Cloud Computing and IoT
 - Introduction to cloud-computing in IoT
 - Cloud platforms for IoT (AWS IoT, Azure IoT, etc.)
 - Sending data from Raspberry Pi Pico "W" to the cloud
 - Analyzing sensor data in the cloud
+-
 
 ### Week 7: Data Analysis at the Edge vs. Cloud
 - Tradeoffs between edge and cloud data processing
@@ -75,6 +79,7 @@ We will also provide examples of GPT-4 prompts that can be used to create, exten
 ### Week 8: Building an IoT Project (Part 1)
 - Planning and designing a comprehensive IoT project
 - Selecting appropriate sensors and communication protocols
+- Purchasing parts: Sparkfun, Adafruit, and EBay
 - Developing the edge component of the project
 
 ### Week 9: Building an IoT Project (Part 2)
