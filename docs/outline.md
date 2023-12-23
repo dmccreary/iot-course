@@ -17,6 +17,7 @@ Each student will be provided with:
 
 1. Each student must provide a laptop with a USB port.
 2. Each student must have an account on GitHub.
+3. Knowledge of Markdown formats is helpful but not required
 
 We will also provide examples of GPT-4 prompts that can be used to create, extend and debug your IoT code.  A generative AI account is encouraged but not required.
 
@@ -45,7 +46,8 @@ We will also provide examples of GPT-4 prompts that can be used to create, exten
 - Overview of sensors used in IoT (temperature, motion, light, etc.)
 - Interfacing sensors with Raspberry Pi Pico "W"
 - The I2C Bus
-- Reading and interpreting Time-of-Flight sensor data
+- The SPI Bus
+- Reading and interpreting Time-of-Flight sensor data from an I2C 
 - Hands-on project: Reporting distance
 
 ### Week 4: Networking and IoT Protocols
@@ -68,11 +70,11 @@ We will also provide examples of GPT-4 prompts that can be used to create, exten
 - Cloud platforms for IoT (AWS IoT, Azure IoT, etc.)
 - Sending data from Raspberry Pi Pico "W" to the cloud
 - Analyzing sensor data in the cloud
--
 
 ### Week 7: Data Analysis at the Edge vs. Cloud
 - Tradeoffs between edge and cloud data processing
 - Efficiency, latency, and privacy considerations
+- Architecture tradeoff analysis
 - Real-world scenarios comparing edge and cloud analytics
 - Group discussion and case study analysis
 
