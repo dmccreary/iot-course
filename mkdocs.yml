@@ -1,13 +1,14 @@
-site_name: SITE_NAME
-site_description: 'DESCRIPTION All content licensed Creative Commons ShareAlike Attribution Noncommercial'
+site_name: IoT Course
+site_description: 'Content for a 10-week college level course on the Internet of Things. All content licensed Creative Commons ShareAlike Attribution Noncommercial'
 site_author: 'Dan McCreary'
 repo_name: 'GitHub Repo'
-site_url: 'https://dmccreary.github.io/GITHUB_REPO_NAME'
-repo_url: 'https://github.com/dmccreary/GITHUB_REPO_NAME'
+site_url: 'https://dmccreary.github.io/iot-course'
+repo_url: 'https://github.com/dmccreary/iot-course'
 
 nav:
   - Home: index.md
   - IoT Course Outline: outline.md
+  - Hands-on Labs: hands-on-labs.md
   - Contact: contact.md
  
 # CoderDojo Microsite Standards from here down

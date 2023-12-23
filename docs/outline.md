@@ -16,6 +16,7 @@ Each student will be provided with:
 5. Various wires
 
 1. Each student must provide a laptop with a USB port.
+2. Students must run the Thonny Python IDE or similar.
 2. Each student must have an account on GitHub.
 3. Knowledge of Markdown formats is helpful but not required
 
@@ -45,8 +46,8 @@ We will also provide examples of GPT-4 prompts that can be used to create, exten
 ### Week 3: Sensors and Data Acquisition
 - Overview of sensors used in IoT (temperature, motion, light, etc.)
 - Interfacing sensors with Raspberry Pi Pico "W"
-- The I2C Bus
-- The SPI Bus
+- The I2C Bus and sensors
+- The SPI Bus and displays
 - Reading and interpreting Time-of-Flight sensor data from an I2C 
 - Hands-on project: Reporting distance
 
@@ -55,6 +56,8 @@ We will also provide examples of GPT-4 prompts that can be used to create, exten
 - Connecting Raspberry Pi Pico "W" to a network via WiFI
 - Sending and receiving data over the network
 - Basics of network security in IoT
+- The MQTT protocol for managing events
+- The Matter Smart Home Standard
 - Hands-on project: Web server
 
 ### Week 5: Edge Computing Concepts
