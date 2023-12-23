@@ -11,7 +11,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://dmccreary.github.io/iot-course/glosssary/</loc>
+         <lastmod>2023-12-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://dmccreary.github.io/iot-course/hands-on-labs/</loc>
+         <lastmod>2023-12-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmccreary.github.io/iot-course/iot-in-healthcare/</loc>
          <lastmod>2023-12-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
